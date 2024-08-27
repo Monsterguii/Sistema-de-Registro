@@ -1,0 +1,1 @@
+Este Programa serve pra registrar funcionários e departamentos de uma empresa em um banco de dados, servindo para guardar informações para uso posterior. O programa permite armazenar diversas informações dos funcionários incluindo o tipo de contrato, junto de sua remuneração.
