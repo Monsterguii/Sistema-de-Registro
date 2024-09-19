@@ -1,9 +1,3 @@
-//Bruno Rabelo RA: 10239373
-//Caio Torres RA: 10417478
-//Guilherme Dias RA: 10417684
-//João Victor de Paula RA: 10418556
-
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
