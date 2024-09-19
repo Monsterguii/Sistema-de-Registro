@@ -43,7 +43,7 @@ import java.sql.ResultSet;
               int horasTrabalhadas = 0;
               String estilocontrato = ""; 
 
-              System.out.println("Bem-vindo ao Sistema de Cabaço de Cainho e companhia");
+              System.out.println("Bem-vindo ao Sistema de Cadastro");
               System.out.println("Escolha:");
               System.out.println("1- Inserir funcionários");
               System.out.println("2- Inserir departamentos");
